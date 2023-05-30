@@ -1,6 +1,6 @@
 # Authentication related Vulnerabilities
 
-<figure><img src=".gitbook/assets/image (3) (1).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (7).png" alt="" width="314"><figcaption></figcaption></figure>
 
 **Authentication-related vulnerabilities** are an important security concern for organizations today. A malicious actor can gain access to a system by exploiting a vulnerability in authentication systems, such as weak passwords or default credentials. By understanding these types of vulnerabilities, organizations can take proactive steps to protect themselves.
 

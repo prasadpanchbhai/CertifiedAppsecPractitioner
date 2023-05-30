@@ -4,7 +4,7 @@ description: Certified Appsec Practitioner (CAP) — Study Notes Pt.2
 
 # Whitelisting & Blacklisting
 
-<figure><img src=".gitbook/assets/image (2) (1).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (5).png" alt="" width="314"><figcaption></figcaption></figure>
 
 ### **Blacklisting**&#x20;
 

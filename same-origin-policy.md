@@ -1,6 +1,6 @@
 # Same Origin Policy
 
-<figure><img src=".gitbook/assets/image (5).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (8).png" alt="" width="314"><figcaption></figcaption></figure>
 
 
 

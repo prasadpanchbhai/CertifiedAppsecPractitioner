@@ -1,6 +1,6 @@
 # Encoding, Encryption and Hashing
 
-<figure><img src=".gitbook/assets/image (7).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (11).png" alt="" width="314"><figcaption></figcaption></figure>
 
 Encoding, encryption, and hashing are three distinct processes used to protect digital information.
 
