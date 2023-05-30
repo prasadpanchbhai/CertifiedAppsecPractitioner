@@ -21,56 +21,41 @@ The Course Contents for Certified Appsec Practitioner are as follows:
 
 5\. [Cross-Site Request Forgery](cross-site-request-forgery.md)
 
-6\. Encoding, Encryption, and Hashing
+6\. [Encoding, Encryption, and Hashing](encoding-encryption-and-hashing.md)
 
 7\. [Authentication related Vulnerabilities](authentication-related-vulnerabilities.md)
 
 * [_Brute force Attacks_](brute-force-attacks.md)
 * [_Password Storage and Password Policy_](password-storage-and-password-policy.md)
 
-8\. Understanding of OWASP Top 10 Vulnerabilities
+8\. [Understanding of OWASP Top 10 Vulnerabilities](understanding-of-owasp-top-10-vulnerabilities.md)
 
-9\. Security Best Practices and Hardening Mechanisms.
+9\. [Security Best Practices and Hardening Mechanisms.](same-origin-policy.md)
 
-* _Same Origin Policy_
-* _Security Headers._
+* [_Same Origin Policy_](same-origin-policy.md)
+* [_Security Headers._](security-headers..md)
 
-10\. Understanding of OWASP Top 10 Vulnerabilities
+10. [TLS security](tls-security.md)
 
-11\. Security Best Practices and Hardening Mechanisms.
+* [_TLS Certificate Misconfiguration_](tls-security.md)
+* [_Symmetric and Asymmetric Ciphers_](tls-security.md)
 
-* _Same Origin Policy_
-* _Security Headers._
-
-12\. TLS security
-
-* _TLS Certificate Misconfiguration_
-* _Symmetric and Asymmetric Ciphers_
-
-13\. Server-Side Request Forgery
-
-14\. Authorization and Session Management related flaws –
+11. Server-Side Request Forgery
+12. &#x20;Authorization and Session Management related flaws –
 
 * _Insecure Direct Object Reference (IDOR)_
 * _Privilege Escalation_
 * _Parameter Manipulation attacks_
 * _Securing Cookies._
 
-15\. Insecure File Uploads
-
-16\. Code Injection Vulnerabilities
-
-17\. Business Logic Flaws
-
-18\. Directory Traversal Vulnerabilities
-
-19\. Security Misconfigurations.
-
-20\. Information Disclosure.
-
-21\. Vulnerable and Outdated Components.
-
-22\. Common Supply Chain Attacks and Prevention Methods.
+13. Insecure File Uploads
+14. Code Injection Vulnerabilities
+15. Business Logic Flaws
+16. Directory Traversal Vulnerabilities
+17. Security Misconfigurations.
+18. Information Disclosure.
+19. Vulnerable and Outdated Components.
+20. Common Supply Chain Attacks and Prevention Methods.
 
 
 
