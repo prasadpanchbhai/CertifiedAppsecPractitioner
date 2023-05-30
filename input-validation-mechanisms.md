@@ -4,7 +4,7 @@ description: Certified Appsec Practitioner (CAP) — Study Notes Pt.1
 
 # Input Validation Mechanisms
 
-<figure><img src=".gitbook/assets/image (1).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt="" width="314"><figcaption></figcaption></figure>
 
 
 

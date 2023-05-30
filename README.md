@@ -1,6 +1,6 @@
 # Certified Appsec Practitioner (CAP)
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -23,7 +23,7 @@ The Course Contents for Certified Appsec Practitioner are as follows:
 
 6\. Encoding, Encryption, and Hashing
 
-7\. [Authentication related Vulnerabilities](https://app.gitbook.com/o/AjctM9BXM2PJ9nZirwXp/s/WrIcinZ87qSasUAtuqcU/\~/changes/5/authentication-related-vulnerabilities)
+7\. [Authentication related Vulnerabilities](authentication-related-vulnerabilities.md)
 
 * _Brute force Attacks_
 * _Password Storage and Password Policy_
