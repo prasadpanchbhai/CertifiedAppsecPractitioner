@@ -8,10 +8,10 @@ Since the **SecOps Group** came up with a voucher that offered free certificatio
 
 The Course Contents for Certified Appsec Practitioner are as follows:
 
-1. Input Validation Mechanisms
+1. [Input Validation Mechanisms](input-validation-mechanisms.md)
 
-* _Blacklisting_
-* _Whitelisting_
+* [_Blacklisting_](whitelisting-and-blacklisting.md)
+* [_Whitelisting_](whitelisting-and-blacklisting.md)
 
 2\. Cross-Site Scripting
 
@@ -23,7 +23,7 @@ The Course Contents for Certified Appsec Practitioner are as follows:
 
 6\. Encoding, Encryption, and Hashing
 
-7\. Authentication related Vulnerabilities
+7\. [Authentication related Vulnerabilities](https://app.gitbook.com/o/AjctM9BXM2PJ9nZirwXp/s/WrIcinZ87qSasUAtuqcU/\~/changes/5/authentication-related-vulnerabilities)
 
 * _Brute force Attacks_
 * _Password Storage and Password Policy_
