@@ -1,6 +1,6 @@
 # Cross-Site Request Forgery
 
-<figure><img src=".gitbook/assets/image (4).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4) (1).png" alt="" width="314"><figcaption></figcaption></figure>
 
 
 

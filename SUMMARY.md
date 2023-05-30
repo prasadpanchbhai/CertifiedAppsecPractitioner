@@ -10,3 +10,8 @@
 * [SQL Injection](sql-injection.md)
 * [XML External Entity attack](xml-external-entity-attack.md)
 * [Cross-Site Request Forgery](cross-site-request-forgery.md)
+* [Encoding, Encryption and Hashing](encoding-encryption-and-hashing.md)
+* [Understanding of OWASP Top 10 Vulnerabilities](understanding-of-owasp-top-10-vulnerabilities.md)
+* [Same Origin Policy](same-origin-policy.md)
+* [Security Headers.](security-headers..md)
+* [TLS security](tls-security.md)

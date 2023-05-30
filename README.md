@@ -13,20 +13,20 @@ The Course Contents for Certified Appsec Practitioner are as follows:
 * [_Blacklisting_](whitelisting-and-blacklisting.md)
 * [_Whitelisting_](whitelisting-and-blacklisting.md)
 
-2\. Cross-Site Scripting
+2\. [Cross-Site Scripting](cross-site-scripting.md)
 
-3\. SQL Injection
+3\. [SQL Injection](sql-injection.md)
 
-4\. XML External Entity attack
+4\. [XML External Entity attack](xml-external-entity-attack.md)
 
-5\. Cross-Site Request Forgery
+5\. [Cross-Site Request Forgery](cross-site-request-forgery.md)
 
 6\. Encoding, Encryption, and Hashing
 
 7\. [Authentication related Vulnerabilities](authentication-related-vulnerabilities.md)
 
-* _Brute force Attacks_
-* _Password Storage and Password Policy_
+* [_Brute force Attacks_](brute-force-attacks.md)
+* [_Password Storage and Password Policy_](password-storage-and-password-policy.md)
 
 8\. Understanding of OWASP Top 10 Vulnerabilities
 

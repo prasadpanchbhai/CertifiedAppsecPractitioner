@@ -1,6 +1,6 @@
 # Password Storage and Password Policy
 
-<figure><img src=".gitbook/assets/image (2).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (2).png" alt="" width="314"><figcaption></figcaption></figure>
 
 
 
