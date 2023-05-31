@@ -15,3 +15,8 @@
 * [Same Origin Policy](same-origin-policy.md)
 * [Security Headers.](security-headers..md)
 * [TLS security](tls-security.md)
+* [TLS Certificate Misconfiguration](tls-certificate-misconfiguration.md)
+* [Symmetric and Asymmetric Ciphers](symmetric-and-asymmetric-ciphers.md)
+* [Server-Side Request Forgery](server-side-request-forgery.md)
+* [Authorization and Session Management related flaws](authorization-and-session-management-related-flaws.md)
+* [Insecure Direct Object Reference (IDOR)](insecure-direct-object-reference-idor.md)

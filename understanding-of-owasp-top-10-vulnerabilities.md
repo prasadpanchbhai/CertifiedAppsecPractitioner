@@ -1,6 +1,6 @@
 # Understanding of OWASP Top 10 Vulnerabilities
 
-<figure><img src=".gitbook/assets/image (14).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (1).png" alt="" width="314"><figcaption></figcaption></figure>
 
 ### **What is OWASP?**
 
