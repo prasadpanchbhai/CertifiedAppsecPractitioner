@@ -1,6 +1,6 @@
 # Server-Side Request Forgery
 
-<figure><img src=".gitbook/assets/image (15).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (15) (1).png" alt="" width="314"><figcaption></figcaption></figure>
 
 ### **Server-Side Request Forgery (SSRF)**
 

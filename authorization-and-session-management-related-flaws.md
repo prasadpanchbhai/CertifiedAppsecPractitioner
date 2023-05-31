@@ -1,6 +1,6 @@
 # Authorization and Session Management related flaws
 
-<figure><img src=".gitbook/assets/image (14).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (14) (2).png" alt="" width="314"><figcaption></figcaption></figure>
 
 ### **History of Authorization and Session Management Related Flaws**
 

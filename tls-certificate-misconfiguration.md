@@ -1,6 +1,6 @@
 # TLS Certificate Misconfiguration
 
-<figure><img src=".gitbook/assets/image (9).png" alt="" width="314"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (9) (2).png" alt="" width="314"><figcaption></figcaption></figure>
 
 #### **TLS Certificate Misconfiguration**
 
